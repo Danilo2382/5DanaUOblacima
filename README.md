@@ -33,7 +33,7 @@ mvn spring-boot:run
 
 Alternatively, you can run the JAR file generated in the target directory:
 ```sh
-java -jar target/5DanaUOblacima-1.0.0.jar
+java -jar target/PetDanaUOblacima-1.0.0.jar
 ```
 
 By default, the application is served on port 8080. You can access it by navigating to:
